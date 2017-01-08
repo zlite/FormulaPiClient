@@ -1,5 +1,6 @@
 # FormulaPiClient
-The Raspberry client side of FormulaPi code running remotely on a PC
+This the RaspberryPi client side of a distributed version of FormulaPi code running remotely on a PC. 
+The core FormulaPi code is not open source, so I can't share it, but this is my own code to modify it. You can get the full FormulaPi code by signing up here: http://formulapi.com/
 
 This code runs on a RaspberryPi on the rover, while the actual FormulaPi code runs on a remote PC for processing effeciency. 
 They talk to each other over wifi.
